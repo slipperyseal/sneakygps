@@ -7,7 +7,7 @@ It features UTM readout which is a common coodinate system used on paper maps.
 
 SneakyGPS incorporates the Adafruit Ultimate GPS Breakout board and is driven by
 the Atmel ATmega328P microcontroller.  The board features a USB power plug.
-Operating at 4mhz, it will also operate at lower volates such as 3.3 volts.
+Operating at 4mhz, it will also operate at lower voltates such as 3.3 volts.
 
 This program is written for zero, a tiny pre-emptive multitasking kernel for AVR microcontrollers.
 
