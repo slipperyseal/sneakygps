@@ -1,6 +1,6 @@
 # SneakyGPS
 
-SneakyGPS is a simple, USB powered GPS receiver with a high visability 7 segment
+SneakyGPS is a simple, USB powered GPS receiver with a high viability 7 segment
 LED display.
 
 It features UTM readout which is a common coodinate system used on paper maps.
