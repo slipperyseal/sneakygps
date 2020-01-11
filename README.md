@@ -5,7 +5,7 @@ LED display.
 
 It features UTM readout which is a common coodinate system used on paper maps.
 
-This program is written for the zero, a tiny pre-emptive multitasking kernel for AVR microcontrollers.
+This program is written for zero, a tiny pre-emptive multitasking kernel for AVR microcontrollers.
 
 [Check out Zero](https://github.com/TechnoCosmic/zero)
 
