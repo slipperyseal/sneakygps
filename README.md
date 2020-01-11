@@ -16,4 +16,6 @@ This program is written for zero, a tiny pre-emptive multitasking kernel for AVR
 ![SneakyGPS](http://kamome.slipperyseal.net/sneakygps-board.jpg "SneakyGPS")
 
 ![SneakyGPS](http://kamome.slipperyseal.net/sneakygps-mac.jpg "SneakyGPS")
+
+![SneakyGPS](http://kamome.slipperyseal.net/sneakygps-eda.png "SneakyGPS")
  
