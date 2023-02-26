@@ -13,9 +13,9 @@ This program is written for zero, a tiny pre-emptive multitasking kernel for AVR
 
 [Check out Zero](https://github.com/TechnoCosmic/zero)
 
-![SneakyGPS](https://storage.googleapis.com/kyoto.catchpole.net/sneakygps-board.jpg "SneakyGPS")
+![SneakyGPS](https://github.com/slipperyseal/sneakygps/blob/slippery/doc/sneakygps-board.jpg "SneakyGPS")
 
-![SneakyGPS](https://storage.googleapis.com/kyoto.catchpole.net/sneakygps-mac.jpg "SneakyGPS")
+![SneakyGPS](https://github.com/slipperyseal/sneakygps/blob/slippery/doc/sneakygps-mac.jpg "SneakyGPS")
 
-![SneakyGPS](https://storage.googleapis.com/kyoto.catchpole.net/sneakygps-eda.png "SneakyGPS")
+![SneakyGPS](https://github.com/slipperyseal/sneakygps/blob/slippery/doc/sneakygps-eda.png "SneakyGPS")
  
